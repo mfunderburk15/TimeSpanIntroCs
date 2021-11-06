@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\bin\Debug\netcoreapp3.1\TimeSpanIntroCs.exe
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\bin\Debug\netcoreapp3.1\TimeSpanIntroCs.deps.json
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\bin\Debug\netcoreapp3.1\TimeSpanIntroCs.runtimeconfig.json
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\bin\Debug\netcoreapp3.1\TimeSpanIntroCs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\bin\Debug\netcoreapp3.1\TimeSpanIntroCs.dll
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\bin\Debug\netcoreapp3.1\TimeSpanIntroCs.pdb
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\obj\Debug\netcoreapp3.1\TimeSpanIntroCs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\obj\Debug\netcoreapp3.1\TimeSpanIntroCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\obj\Debug\netcoreapp3.1\TimeSpanIntroCs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\obj\Debug\netcoreapp3.1\TimeSpanIntroCs.AssemblyInfo.cs
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\obj\Debug\netcoreapp3.1\TimeSpanIntroCs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\obj\Debug\netcoreapp3.1\TimeSpanIntroCs.dll
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\obj\Debug\netcoreapp3.1\TimeSpanIntroCs.pdb
+C:\Users\masen\source\repos\TimeSpanIntroCs\TimeSpanIntroCs\obj\Debug\netcoreapp3.1\TimeSpanIntroCs.genruntimeconfig.cache
